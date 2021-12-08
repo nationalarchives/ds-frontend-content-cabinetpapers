@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MagpieProject SYSTEM 
+  "classpath:/modelobjects/mediaframework/project/MagpieProject.dtd">
+
+<MagpieProject baseMedia="emergencyward10_1Mbps_Stream.mov">
+  <Property name="speaker.textBackground" value="#000000"/>
+  <Property name="videoArea.width" value="320"/>
+  <Property name="captionArea.background" value="#000000"/>
+  <Property name="speaker.fontSize" value="12"/>
+  <Property name="segment.defaultStyle" value="none"/>
+  <Property name="captionArea.width" value="320"/>
+  <Property name="speaker.underline" value="false"/>
+  <Property name="caption.underline" value="false"/>
+  <Property name="caption.fontFamily" value="SansSerif"/>
+  <Property name="speaker.alignment" value="left"/>
+  <Property name="speaker.textColor" value="#FFFFFF"/>
+  <Property name="caption.textBackground" value="#000000"/>
+  <Property name="created" value="Thu Sep 18 09:32:36 BST 2008"/>
+  <Property name="caption.fontSize" value="12"/>
+  <Property name="videoArea.height" value="240"/>
+  <Property name="speaker.fontFamily" value="SansSerif"/>
+  <Property name="lastModified" value="Thu Sep 18 09:32:36 BST 2008"/>
+  <Property name="caption.alignment" value="left"/>
+  <Property name="authorInfo" value="National Archives"/>
+  <Property name="caption.italic" value="false"/>
+  <Property name="speaker.italic" value="false"/>
+  <Property name="speaker.bold" value="false"/>
+  <Property name="media.toolkit" value="quicktime"/>
+  <Property name="caption.bold" value="false"/>
+  <Property name="captionArea.height" value="80"/>
+  <Property name="caption.textColor" value="#FFFFFF"/>
+  <CaptionTrack trackName="Captions" trackType="Caption" language-code="en"
+        country-code="GB">
+    <Property name="country-name" value="United Kingdom"/>
+    <Property name="language-name" value="English"/>
+    <Caption isComment="false" startTime="00:00:01.2500" speaker=""
+          endTime="00:00:02.1500">
+      <PlainTextCaption>My Gordon!</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font size="2"><font color="#FFFFFF"><font bgcolor="#000000">My Gordon!</font></font></font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:04.4100" speaker=""
+          endTime="00:00:05.1800">
+      <PlainTextCaption>Er Mr Unwin?</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font color="#FFFFFF">Er Mr Unwin?</font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:05.1900" speaker=""
+          endTime="00:00:06.8700">
+      <PlainTextCaption>Yes, Mr Doyle</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font color="#FFFFFF">Yes, Mr Doyle</font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:07.6933" speaker=""
+          endTime="00:00:10.2000">
+      <PlainTextCaption>Do you know if it&apos;s possible to get a private room in this joint?</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font color="#FFFFFF">Do you know if it's possible to get a private room in this joint?</font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:10.2100" speaker=""
+          endTime="00:00:14.7500">
+      <PlainTextCaption>Joint, well certainly if there&apos;s one vacant and you&apos;re prepared to pay for it</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font size="2"><font color="#FFFFFF"><font bgcolor="#000000">Joint, well certainly if there's one vacant and you're prepared to pay for it</font></font></font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:15.0000" speaker=""
+          endTime="00:00:15.6900">
+      <PlainTextCaption>How much?</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font color="#FFFFFF">How much?</font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:15.7000" speaker=""
+          endTime="00:00:18.9200">
+      <PlainTextCaption>Well I&apos;m not sure of the exact figure I imagine it depends on the room</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font size="2"><font color="#FFFFFF"><font bgcolor="#000000">Well I'm not sure of the exact figure I imagine it depends on the room</font></font></font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:19.2000" speaker=""
+          endTime="00:00:21.6800">
+      <PlainTextCaption>but I believe the average is about 35 guineas.</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font color="#FFFFFF">but I believe the average is about 35 guineas.</font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:22.2950" speaker=""
+          endTime="00:00:22.6400">
+      <PlainTextCaption>A week?!</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font color="#FFFFFF">A week?!</font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:23.0533" speaker=""
+          endTime="00:00:26.8700">
+      <PlainTextCaption>Yes and of course you&apos;d be expected to pay for the medical treatment and the drugs and so on.</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font size="2"><font color="#FFFFFF"><font bgcolor="#000000">Yes and of course you'd be expected to pay for the medical treatment and the drugs and so on.</font></font></font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:27.2150" speaker=""
+          endTime="00:00:30.5100">
+      <PlainTextCaption>Holy cow they charge like wounded buffaloes</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font color="#FFFFFF">Holy cow they charge like wounded buffaloes</font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:30.5500" speaker=""
+          endTime="00:00:32.2000">
+      <PlainTextCaption>It sounds a lot doesn&apos;t it</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font color="#FFFFFF">It sounds a lot doesn't it</font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:32.2100" speaker=""
+          endTime="00:00:37.3900">
+      <PlainTextCaption>But do you know the average cost of keeping a national health patient in a public ward amounts to?</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font size="2"><font color="#FFFFFF"><font bgcolor="#000000">But do you know the average cost of keeping a national health patient in a public ward amounts to?</font></font></font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:37.4100" speaker=""
+          endTime="00:00:37.7700">
+      <PlainTextCaption>No I don&apos;t</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font color="#FFFFFF">No I don't</font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:37.7800" speaker=""
+          endTime="00:00:40.9800">
+      <PlainTextCaption>but I know that 35 quid&apos;s too much to pay for a telephone</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font color="#FFFFFF">but I know that 35 quid's too much to pay for a telephone</font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:41.4550" speaker=""
+          endTime="00:00:44.1300">
+      <PlainTextCaption>and I also know [inaudible] I&apos;d be the one that got to pay for it.</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font color="#FFFFFF">and I also know [inaudible] I'd be the one that got to pay for it.</font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:46.3750" speaker=""
+          endTime="00:00:47.0200">
+      <PlainTextCaption>But um...</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font color="#FFFFFF">But um...</font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:48.8550" speaker=""
+          endTime="00:00:49.9000">
+      <PlainTextCaption>how do I go about getting one?</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font color="#FFFFFF">how do I go about getting one?</font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:50.0150" speaker=""
+          endTime="00:00:53.7500">
+      <PlainTextCaption>Ask Sister, she&apos;ll arrange it for you always assuming there&apos;s one free</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font size="2"><font color="#FFFFFF"><font bgcolor="#000000">Ask Sister, she'll arrange it for you always assuming there's one free</font></font></font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:54.5350" speaker=""
+          endTime="00:00:56.1100">
+      <PlainTextCaption>Oh, thanks</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font color="#FFFFFF">Oh, thanks</font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:00:57.9350" speaker=""
+          endTime="00:01:01.2300">
+      <PlainTextCaption>Thirty-five quid... guineas</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font color="#FFFFFF">Thirty-five quid... guineas</font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:01:02.3400" speaker=""
+          endTime="00:01:02.9200">
+      <PlainTextCaption>Hey Doctor</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font color="#FFFFFF">Hey Doctor</font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" speaker="" endTime="00:01:04.8000">
+      <PlainTextCaption/>
+      <HtmlStyledCaption><![CDATA[<html></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html></html>]]></HtmlStyledSpeaker>
+    </Caption>
+  </CaptionTrack>
+</MagpieProject>

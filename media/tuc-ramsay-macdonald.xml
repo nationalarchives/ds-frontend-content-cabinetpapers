@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1"
+      xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en">
+  <head>
+    <styling>
+      <style id="defaultSpeaker" tts:fontSize="12px" tts:fontFamily="SansSerif" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="left" />
+      <style id="defaultCaption" tts:fontSize="12px" tts:fontFamily="SansSerif" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="left" />
+    </styling>
+  </head>
+  <body id="thebody" style="defaultCaption">
+    <div xml:lang="en">
+      <p begin="0:00:09.40" end="0:00:16.48">The Rt. Hon. Ramsay MacDonald.</p>
+      <p begin="0:00:17.23" end="0:00:18.85">My friends;</p>
+      <p begin="0:00:19.77" end="0:00:28.77">we are beginning a contest which will be one of the most historical in the story of our country</p>
+      <p begin="0:00:29.44" end="0:00:36.44">and I hope most sincerely that you are all to bear a noble part in the fight.</p>
+      <p begin="0:00:36.55" end="0:00:38.55">Our country</p>
+      <p begin="0:00:39.30" end="0:00:44.30">in the course of its history has had to meet many storms</p>
+      <p begin="0:00:45.61" end="0:00:55.61">and many stresses but it has always come out successfully by the courage and the determination of our people.</p>
+      <p begin="0:00:56.17" end="0:00:58.90">We are going to do that again.</p>
+      <p begin="0:00:59.00" end="0:01:04.60">The question you have to settle and I have to try to settle</p>
+      <p begin="0:01:05.77" end="0:01:12.77">is whether the pound sterling is going to fluctuate so much from day to day that</p>
+      <p begin="0:01:13.26" end="0:01:21.90">not one of you housewives not one of you women who are responsible for the expenditure of your household income</p>
+      <p begin="0:01:22.92" end="0:01:28.92">will know from week to week how much the pound is going to bring to you.</p>
+      <p begin="0:01:29.70" end="0:01:38.90">I appeal to you to give us during this [inaudible] time a Government that will be a union of all parties.</p>
+      <p begin="0:01:39.90" end="0:01:47.90">And I ask you therefore at this election to return a [inaudible] of men of all parties united in serving the national interest</p>
+      <p begin="0:01:48.36" end="0:01:56.00">and give them power to carry out the task they have placed before them to a successful end.</p>
+    </div>
+  </body>
+</tt>

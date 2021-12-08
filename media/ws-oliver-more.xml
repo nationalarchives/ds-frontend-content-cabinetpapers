@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MagpieProject SYSTEM 
+  "classpath:/modelobjects/mediaframework/project/MagpieProject.dtd">
+
+<MagpieProject baseMedia="olivertwist2_1Mbps_Stream.mov">
+  <Property name="videoArea.width" value="320"/>
+  <Property name="speaker.textBackground" value="#000000"/>
+  <Property name="captionArea.background" value="#000000"/>
+  <Property name="speaker.fontSize" value="12"/>
+  <Property name="segment.defaultStyle" value="none"/>
+  <Property name="captionArea.width" value="320"/>
+  <Property name="speaker.underline" value="false"/>
+  <Property name="caption.underline" value="false"/>
+  <Property name="caption.fontFamily" value="SansSerif"/>
+  <Property name="speaker.alignment" value="left"/>
+  <Property name="speaker.textColor" value="#FFFFFF"/>
+  <Property name="caption.textBackground" value="#000000"/>
+  <Property name="projectFile"
+        value="J:\Rosie's content\Video\Captions\Oliver-More.xml"/>
+  <Property name="created" value="Tue Sep 16 14:02:59 BST 2008"/>
+  <Property name="caption.fontSize" value="12"/>
+  <Property name="videoArea.height" value="240"/>
+  <Property name="speaker.fontFamily" value="SansSerif"/>
+  <Property name="lastModified" value="Thu Sep 18 08:44:47 BST 2008"/>
+  <Property name="caption.alignment" value="left"/>
+  <Property name="authorInfo" value="National Archives"/>
+  <Property name="caption.italic" value="false"/>
+  <Property name="speaker.italic" value="false"/>
+  <Property name="speaker.bold" value="false"/>
+  <Property name="media.toolkit" value="quicktime"/>
+  <Property name="captionArea.height" value="80"/>
+  <Property name="caption.bold" value="false"/>
+  <Property name="caption.textColor" value="#FFFFFF"/>
+  <CaptionTrack trackName="Captions" trackType="Caption" language-code="en"
+        country-code="GB">
+    <Property name="country-name" value="United Kingdom"/>
+    <Property name="language-name" value="English"/>
+    <Caption isComment="false" startTime="00:01:13.3000"
+          endTime="00:01:16.3800">
+      <PlainTextCaption>Please Sir I want some more</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font color="#FFFFFF">Please Sir I want some more</font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:01:17.3100"
+          endTime="00:01:18.6900">
+      <PlainTextCaption>What?!</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font color="#FFFFFF">What?!</font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" startTime="00:01:18.7200"
+          endTime="00:01:19.0000">
+      <PlainTextCaption>What!</PlainTextCaption>
+      <HtmlStyledCaption><![CDATA[<html><body><font face="SansSerif"><font color="#FFFFFF">What!</font></font></body></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html><body></body></html>]]></HtmlStyledSpeaker>
+    </Caption>
+    <Caption isComment="false" endTime="00:01:19.1900">
+      <PlainTextCaption/>
+      <HtmlStyledCaption><![CDATA[<html></html>]]></HtmlStyledCaption>
+      <PlainTextSpeaker/>
+      <HtmlStyledSpeaker><![CDATA[<html></html>]]></HtmlStyledSpeaker>
+    </Caption>
+  </CaptionTrack>
+</MagpieProject>

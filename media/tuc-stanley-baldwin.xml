@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1"
+      xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en">
+  <head>
+    <styling>
+      <style id="defaultSpeaker" tts:fontSize="12px" tts:fontFamily="SansSerif" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="left" />
+      <style id="defaultCaption" tts:fontSize="12px" tts:fontFamily="SansSerif" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="left" />
+    </styling>
+  </head>
+  <body id="thebody" style="defaultCaption">
+    <div xml:lang="en">
+      <p begin="0:00:10.23" end="0:00:15.51">The Rt. Hon. STANLEY BALDWIN</p>
+      <p begin="0:00:13.52" end="0:00:16.83">Every voter must remember</p>
+      <p begin="0:00:16.86" end="0:00:19.68">that the future destinies of the country</p>
+      <p begin="0:00:19.70" end="0:00:27.60">and of the Empire rest upon his or her decision</p>
+      <p begin="0:00:27.64" end="0:00:33.33">The country is face to face with a grave crisis</p>
+      <p begin="0:00:33.36" end="0:00:38.00">and the simple issue is this:</p>
+      <p begin="0:00:38.05" end="0:00:46.55">whether the electors at a time of grave national crisis</p>
+      <p begin="0:00:46.56" end="0:01:01.90">a time of national emergency, are going to entrust the Government of the country to the party which brought us to the verge of ruin</p>
+      <p begin="0:01:01.91" end="0:01:12.40">and then ran away because they had not the courage to face up to the crisis</p>
+      <p begin="0:01:12.44" end="0:01:23.94">Or are they going to put their trust in the leaders of the three parties who have joined together</p>
+      <p begin="0:01:23.96" end="0:01:36.46">in order to carry through a great policy of national reconstruction and international reconciliation</p>
+      <p begin="0:01:36.47" end="0:01:44.42">and set our country once more on the road to better times</p>
+      <p begin="0:01:44.43" end="0:01:52.10">On the one side are Mr. Henderson's Socialists</p>
+      <p begin="0:01:52.12" end="0:02:02.72">who by their extravagance wrecked the financial stability of the country</p>
+      <p begin="0:02:02.73" end="0:02:15.85">And when faced with the responsibility of taking the necessary measures to save a crash in the value of the pound</p>
+      <p begin="0:02:15.86" end="0:02:25.23">which would have brought suffering and privation to all classes in the country</p>
+      <p begin="0:02:25.24" end="0:02:31.02">deserted their post through fear of the consequences</p>
+      <p begin="0:02:31.04" end="0:02:40.32">and left it to those who were prepared to put country before party</p>
+      <p begin="0:02:40.34" end="0:02:47.36">to rescue the nation from the impending disaster</p>
+      <p begin="0:02:47.37" end="0:02:54.07">On the other side stands the National Government</p>
+      <p begin="0:02:54.08" end="0:03:05.55">led by the Prime Minister Mr. MacDonald who had the courage to put country before party</p>
+      <p begin="0:03:05.56" end="0:03:15.34">and refused to desert the ship in the hour of need</p>
+      <p begin="0:03:15.35" end="0:03:29.78">The National Government asked for a free hand to carry out the steps that are necessary to restore our trade</p>
+      <p begin="0:03:29.79" end="0:03:40.51">and to establish our credit on a firm and permanent footing</p>
+      <p begin="0:03:40.52" end="0:03:53.80">With a free hand we have power to use tariffs as a means to restore the trade balance</p>
+      <p begin="0:03:53.81" end="0:04:01.21">We have power to enter into trade agreements with the Dominions</p>
+      <p begin="0:04:01.22" end="0:04:08.98">in order that we may find new markets for our manufactures in the Empire</p>
+      <p begin="0:04:08.99" end="0:04:20.67">We have power to take effective action to rescue agriculture from its present plight</p>
+      <p begin="0:04:20.68" end="0:04:28.25">I have no doubt as to the answer which the country will give</p>
+      <p begin="0:04:28.26" end="0:04:46.73">The return of Socialist government today would bring down upon our country the very catastrophe which was so narrowly averted last August</p>
+      <p begin="0:04:46.74" end="0:04:59.98">The only way to avert that disaster and to set our country on its feet again</p>
+      <p begin="0:04:59.99" end="0:05:04.71">is to return a National Government</p>
+      <p begin="0:05:04.72" end="0:05:14.42">consisting of men of all parties resolutely determined to put the national interests first.</p>
+    </div>
+  </body>
+</tt>
