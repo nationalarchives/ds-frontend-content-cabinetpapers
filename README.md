@@ -1,4 +1,7 @@
- # /cabinetpapers
+# /cabinetpapers
+
+## External files
+_files not in the repo used/embedded in the code_
 
  - /css/basestyles.css
  - /images/buttons/closeinfo.gif
