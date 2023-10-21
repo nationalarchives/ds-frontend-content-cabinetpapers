@@ -28,42 +28,4 @@
         </ul>
     </div>
 </div>
-<style type="text/css">
-
-    #failover {
-        background-color: #FCE45C;
-        padding: .3em 2em;
-        text-align: center;
-        border: dashed #000 1px;
-    }
-
-    #failover h2 {
-      color: #000!important;
-      margin: 6px;
-      font-size: 18px;
-    }
-
-    #failover p {
-      margin: 6px;
-      font-size: 15px;
-    }
-
-    #failover a {
-      text-decoration: underline!important;
-    }
-
-    @media only screen and (max-width:480px) {
-
-    #failover p {
-      font-size: .8em;
-    }
-
-    }
-
-    </style>
-   <div id="failover">
-    <p>This resource has been archived but you can still access its themed content and PDF files. You can search Discovery, our online catalogue, to find the full range of records held here at The National Archives and in other UK archives.</p></div>
-
-
-
 <div class="accesskeys"><a id="content"></a></div>
